@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/follower/follower.egg-info
+writing ../../build/follower/follower.egg-info/PKG-INFO
+writing dependency_links to ../../build/follower/follower.egg-info/dependency_links.txt
+writing entry points to ../../build/follower/follower.egg-info/entry_points.txt
+writing requirements to ../../build/follower/follower.egg-info/requires.txt
+writing top-level names to ../../build/follower/follower.egg-info/top_level.txt
+writing manifest file '../../build/follower/follower.egg-info/SOURCES.txt'
+reading manifest file '../../build/follower/follower.egg-info/SOURCES.txt'
+writing manifest file '../../build/follower/follower.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/hemant/ros2_ws/build/follower/build
+creating /home/hemant/ros2_ws/build/follower/build/lib
+creating /home/hemant/ros2_ws/build/follower/build/lib/follower
+copying follower/listener.py -> /home/hemant/ros2_ws/build/follower/build/lib/follower
+copying follower/broadcaster.py -> /home/hemant/ros2_ws/build/follower/build/lib/follower
+copying follower/__init__.py -> /home/hemant/ros2_ws/build/follower/build/lib/follower
+running install
+running install_lib
+creating /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower
+copying /home/hemant/ros2_ws/build/follower/build/lib/follower/listener.py -> /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower
+copying /home/hemant/ros2_ws/build/follower/build/lib/follower/broadcaster.py -> /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower
+copying /home/hemant/ros2_ws/build/follower/build/lib/follower/__init__.py -> /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower
+byte-compiling /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower/listener.py to listener.cpython-38.pyc
+byte-compiling /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower/broadcaster.py to broadcaster.cpython-38.pyc
+byte-compiling /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/hemant/ros2_ws/install/follower/share/ament_index
+creating /home/hemant/ros2_ws/install/follower/share/ament_index/resource_index
+creating /home/hemant/ros2_ws/install/follower/share/ament_index/resource_index/packages
+copying resource/follower -> /home/hemant/ros2_ws/install/follower/share/ament_index/resource_index/packages
+copying package.xml -> /home/hemant/ros2_ws/install/follower/share/follower
+running install_egg_info
+Copying ../../build/follower/follower.egg-info to /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower-0.0.0-py3.8.egg-info
+running install_scripts
+Installing broadcaster script to /home/hemant/ros2_ws/install/follower/lib/follower
+Installing listener script to /home/hemant/ros2_ws/install/follower/lib/follower
+writing list of installed files to '/home/hemant/ros2_ws/build/follower/install.log'

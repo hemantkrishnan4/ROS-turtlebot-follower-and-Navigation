@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/basic/basic.egg-info
+writing ../../build/basic/basic.egg-info/PKG-INFO
+writing dependency_links to ../../build/basic/basic.egg-info/dependency_links.txt
+writing entry points to ../../build/basic/basic.egg-info/entry_points.txt
+writing requirements to ../../build/basic/basic.egg-info/requires.txt
+writing top-level names to ../../build/basic/basic.egg-info/top_level.txt
+writing manifest file '../../build/basic/basic.egg-info/SOURCES.txt'
+reading manifest file '../../build/basic/basic.egg-info/SOURCES.txt'
+writing manifest file '../../build/basic/basic.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/hemant/ros2_ws/build/basic/build
+creating /home/hemant/ros2_ws/build/basic/build/lib
+creating /home/hemant/ros2_ws/build/basic/build/lib/basic
+copying basic/pub.py -> /home/hemant/ros2_ws/build/basic/build/lib/basic
+copying basic/sub.py -> /home/hemant/ros2_ws/build/basic/build/lib/basic
+copying basic/__init__.py -> /home/hemant/ros2_ws/build/basic/build/lib/basic
+running install
+running install_lib
+creating /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic
+copying /home/hemant/ros2_ws/build/basic/build/lib/basic/pub.py -> /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic
+copying /home/hemant/ros2_ws/build/basic/build/lib/basic/sub.py -> /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic
+copying /home/hemant/ros2_ws/build/basic/build/lib/basic/__init__.py -> /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic
+byte-compiling /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic/pub.py to pub.cpython-38.pyc
+byte-compiling /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic/sub.py to sub.cpython-38.pyc
+byte-compiling /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/hemant/ros2_ws/install/basic/share/ament_index
+creating /home/hemant/ros2_ws/install/basic/share/ament_index/resource_index
+creating /home/hemant/ros2_ws/install/basic/share/ament_index/resource_index/packages
+copying resource/basic -> /home/hemant/ros2_ws/install/basic/share/ament_index/resource_index/packages
+copying package.xml -> /home/hemant/ros2_ws/install/basic/share/basic
+running install_egg_info
+Copying ../../build/basic/basic.egg-info to /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic-0.0.0-py3.8.egg-info
+running install_scripts
+Installing listener script to /home/hemant/ros2_ws/install/basic/lib/basic
+Installing talker script to /home/hemant/ros2_ws/install/basic/lib/basic
+writing list of installed files to '/home/hemant/ros2_ws/build/basic/install.log'

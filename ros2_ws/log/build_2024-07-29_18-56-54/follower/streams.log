@@ -1,0 +1,41 @@
+[0.688s] Invoking command in '/home/hemant/ros2_ws/src/follower': PYTHONPATH=/home/hemant/ros2_ws/build/follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/follower build --build-base /home/hemant/ros2_ws/build/follower/build install --record /home/hemant/ros2_ws/build/follower/install.log --install-scripts $base/lib/follower --single-version-externally-managed install_data
+[0.870s] running egg_info
+[0.871s] creating ../../build/follower/follower.egg-info
+[0.871s] writing ../../build/follower/follower.egg-info/PKG-INFO
+[0.871s] writing dependency_links to ../../build/follower/follower.egg-info/dependency_links.txt
+[0.871s] writing entry points to ../../build/follower/follower.egg-info/entry_points.txt
+[0.871s] writing requirements to ../../build/follower/follower.egg-info/requires.txt
+[0.871s] writing top-level names to ../../build/follower/follower.egg-info/top_level.txt
+[0.872s] writing manifest file '../../build/follower/follower.egg-info/SOURCES.txt'
+[0.905s] reading manifest file '../../build/follower/follower.egg-info/SOURCES.txt'
+[0.905s] writing manifest file '../../build/follower/follower.egg-info/SOURCES.txt'
+[0.905s] running build
+[0.905s] running build_py
+[0.905s] creating /home/hemant/ros2_ws/build/follower/build
+[0.906s] creating /home/hemant/ros2_ws/build/follower/build/lib
+[0.906s] creating /home/hemant/ros2_ws/build/follower/build/lib/follower
+[0.906s] copying follower/listener.py -> /home/hemant/ros2_ws/build/follower/build/lib/follower
+[0.906s] copying follower/broadcaster.py -> /home/hemant/ros2_ws/build/follower/build/lib/follower
+[0.906s] copying follower/__init__.py -> /home/hemant/ros2_ws/build/follower/build/lib/follower
+[0.906s] running install
+[0.907s] running install_lib
+[0.908s] creating /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower
+[0.908s] copying /home/hemant/ros2_ws/build/follower/build/lib/follower/listener.py -> /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower
+[0.908s] copying /home/hemant/ros2_ws/build/follower/build/lib/follower/broadcaster.py -> /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower
+[0.908s] copying /home/hemant/ros2_ws/build/follower/build/lib/follower/__init__.py -> /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower
+[0.908s] byte-compiling /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower/listener.py to listener.cpython-38.pyc
+[0.910s] byte-compiling /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower/broadcaster.py to broadcaster.cpython-38.pyc
+[0.911s] byte-compiling /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower/__init__.py to __init__.cpython-38.pyc
+[0.911s] running install_data
+[0.911s] creating /home/hemant/ros2_ws/install/follower/share/ament_index
+[0.911s] creating /home/hemant/ros2_ws/install/follower/share/ament_index/resource_index
+[0.911s] creating /home/hemant/ros2_ws/install/follower/share/ament_index/resource_index/packages
+[0.911s] copying resource/follower -> /home/hemant/ros2_ws/install/follower/share/ament_index/resource_index/packages
+[0.911s] copying package.xml -> /home/hemant/ros2_ws/install/follower/share/follower
+[0.911s] running install_egg_info
+[0.913s] Copying ../../build/follower/follower.egg-info to /home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages/follower-0.0.0-py3.8.egg-info
+[0.913s] running install_scripts
+[0.933s] Installing broadcaster script to /home/hemant/ros2_ws/install/follower/lib/follower
+[0.933s] Installing listener script to /home/hemant/ros2_ws/install/follower/lib/follower
+[0.933s] writing list of installed files to '/home/hemant/ros2_ws/build/follower/install.log'
+[0.953s] Invoked command in '/home/hemant/ros2_ws/src/follower' returned '0': PYTHONPATH=/home/hemant/ros2_ws/build/follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hemant/ros2_ws/install/follower/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/follower build --build-base /home/hemant/ros2_ws/build/follower/build install --record /home/hemant/ros2_ws/build/follower/install.log --install-scripts $base/lib/follower --single-version-externally-managed install_data

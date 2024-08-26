@@ -1,0 +1,22 @@
+[0.701s] Invoking command in '/home/hemant/ros2_ws/src/basic': PYTHONPATH=/home/hemant/ros2_ws/build/basic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/basic build --build-base /home/hemant/ros2_ws/build/basic/build install --record /home/hemant/ros2_ws/build/basic/install.log --install-scripts $base/lib/basic --single-version-externally-managed install_data
+[0.868s] running egg_info
+[0.869s] writing ../../build/basic/basic.egg-info/PKG-INFO
+[0.869s] writing dependency_links to ../../build/basic/basic.egg-info/dependency_links.txt
+[0.870s] writing entry points to ../../build/basic/basic.egg-info/entry_points.txt
+[0.870s] writing requirements to ../../build/basic/basic.egg-info/requires.txt
+[0.870s] writing top-level names to ../../build/basic/basic.egg-info/top_level.txt
+[0.897s] reading manifest file '../../build/basic/basic.egg-info/SOURCES.txt'
+[0.902s] writing manifest file '../../build/basic/basic.egg-info/SOURCES.txt'
+[0.902s] running build
+[0.902s] running build_py
+[0.902s] running install
+[0.903s] running install_lib
+[0.904s] running install_data
+[0.904s] running install_egg_info
+[0.905s] removing '/home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic-0.0.0-py3.8.egg-info' (and everything under it)
+[0.906s] Copying ../../build/basic/basic.egg-info to /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic-0.0.0-py3.8.egg-info
+[0.906s] running install_scripts
+[0.920s] Installing listener script to /home/hemant/ros2_ws/install/basic/lib/basic
+[0.920s] Installing talker script to /home/hemant/ros2_ws/install/basic/lib/basic
+[0.920s] writing list of installed files to '/home/hemant/ros2_ws/build/basic/install.log'
+[0.941s] Invoked command in '/home/hemant/ros2_ws/src/basic' returned '0': PYTHONPATH=/home/hemant/ros2_ws/build/basic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/basic build --build-base /home/hemant/ros2_ws/build/basic/build install --record /home/hemant/ros2_ws/build/basic/install.log --install-scripts $base/lib/basic --single-version-externally-managed install_data

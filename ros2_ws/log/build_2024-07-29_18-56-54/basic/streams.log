@@ -1,0 +1,41 @@
+[0.674s] Invoking command in '/home/hemant/ros2_ws/src/basic': PYTHONPATH=/home/hemant/ros2_ws/build/basic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/basic build --build-base /home/hemant/ros2_ws/build/basic/build install --record /home/hemant/ros2_ws/build/basic/install.log --install-scripts $base/lib/basic --single-version-externally-managed install_data
+[0.851s] running egg_info
+[0.851s] creating ../../build/basic/basic.egg-info
+[0.852s] writing ../../build/basic/basic.egg-info/PKG-INFO
+[0.853s] writing dependency_links to ../../build/basic/basic.egg-info/dependency_links.txt
+[0.853s] writing entry points to ../../build/basic/basic.egg-info/entry_points.txt
+[0.853s] writing requirements to ../../build/basic/basic.egg-info/requires.txt
+[0.853s] writing top-level names to ../../build/basic/basic.egg-info/top_level.txt
+[0.853s] writing manifest file '../../build/basic/basic.egg-info/SOURCES.txt'
+[0.887s] reading manifest file '../../build/basic/basic.egg-info/SOURCES.txt'
+[0.888s] writing manifest file '../../build/basic/basic.egg-info/SOURCES.txt'
+[0.888s] running build
+[0.888s] running build_py
+[0.888s] creating /home/hemant/ros2_ws/build/basic/build
+[0.888s] creating /home/hemant/ros2_ws/build/basic/build/lib
+[0.888s] creating /home/hemant/ros2_ws/build/basic/build/lib/basic
+[0.888s] copying basic/pub.py -> /home/hemant/ros2_ws/build/basic/build/lib/basic
+[0.888s] copying basic/sub.py -> /home/hemant/ros2_ws/build/basic/build/lib/basic
+[0.888s] copying basic/__init__.py -> /home/hemant/ros2_ws/build/basic/build/lib/basic
+[0.889s] running install
+[0.889s] running install_lib
+[0.890s] creating /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic
+[0.890s] copying /home/hemant/ros2_ws/build/basic/build/lib/basic/pub.py -> /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic
+[0.890s] copying /home/hemant/ros2_ws/build/basic/build/lib/basic/sub.py -> /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic
+[0.891s] copying /home/hemant/ros2_ws/build/basic/build/lib/basic/__init__.py -> /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic
+[0.891s] byte-compiling /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic/pub.py to pub.cpython-38.pyc
+[0.892s] byte-compiling /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic/sub.py to sub.cpython-38.pyc
+[0.893s] byte-compiling /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic/__init__.py to __init__.cpython-38.pyc
+[0.893s] running install_data
+[0.893s] creating /home/hemant/ros2_ws/install/basic/share/ament_index
+[0.893s] creating /home/hemant/ros2_ws/install/basic/share/ament_index/resource_index
+[0.893s] creating /home/hemant/ros2_ws/install/basic/share/ament_index/resource_index/packages
+[0.893s] copying resource/basic -> /home/hemant/ros2_ws/install/basic/share/ament_index/resource_index/packages
+[0.893s] copying package.xml -> /home/hemant/ros2_ws/install/basic/share/basic
+[0.893s] running install_egg_info
+[0.894s] Copying ../../build/basic/basic.egg-info to /home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages/basic-0.0.0-py3.8.egg-info
+[0.895s] running install_scripts
+[0.909s] Installing listener script to /home/hemant/ros2_ws/install/basic/lib/basic
+[0.909s] Installing talker script to /home/hemant/ros2_ws/install/basic/lib/basic
+[0.910s] writing list of installed files to '/home/hemant/ros2_ws/build/basic/install.log'
+[0.938s] Invoked command in '/home/hemant/ros2_ws/src/basic' returned '0': PYTHONPATH=/home/hemant/ros2_ws/build/basic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hemant/ros2_ws/install/basic/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/basic build --build-base /home/hemant/ros2_ws/build/basic/build install --record /home/hemant/ros2_ws/build/basic/install.log --install-scripts $base/lib/basic --single-version-externally-managed install_data
