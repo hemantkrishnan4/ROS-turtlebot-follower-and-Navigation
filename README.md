@@ -89,7 +89,8 @@ ros2 launch my_robot_navigation navigation.launch.py
 
 The follower robot successfully tracks and follows the lead robot using TF2. Below is a link to the video showing the simulation results:
 
-![follower_tracking](https://github.com/user-attachments/assets/f9908757-ec25-4b73-8d72-682b94db4eca)
+
+![follower_tracking](https://github.com/user-attachments/assets/538de7fa-0ebe-4e92-8be3-ad003e1a2003)
 
 
 *Figure 1: Follower Robot Tracking Lead Robot*
